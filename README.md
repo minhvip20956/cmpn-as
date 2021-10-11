@@ -17,6 +17,8 @@ CMPN OpenVPN Installation and Manager script by Cong Minh Vuong
 
 **a)Disable Firewalld (apply for CentOS, AlmaLinux, RockyLinux, RedHat,...):**
 
+*Assurance. It will be replaced with iptables*
+
 ```bash
 systemctl stop firewalld;\
 systemctl disable firewalld;\
