@@ -1,8 +1,11 @@
 <br />
 CMPN OpenVPN Installation and Manager script by Cong Minh Vuong
 <br />
+
 ### OS Support
+
 *(Ubuntu 20.04 LTS recommend)*
+
 - Ubuntu 18.04 LTS | Ubuntu 20.04 LTS
 - Debian 10 | Debian 11
 - CentOS 7 | (With SELinux Disabled)
