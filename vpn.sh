@@ -74,6 +74,6 @@ initialCheck
 wgetinstall
 
 # Script Install
-wget https://raw.githubusercontent.com/minhvip20956/wireguard-install/main/cmvpn -O /usr/bin/cmvpn
+wget https://raw.githubusercontent.com/minhvip20956/cmpn-as/main/cmvpn -O /usr/bin/cmvpn
 chmod +x /usr/bin/cmvpn
 cmvpn
