@@ -15,17 +15,7 @@ CMPN OpenVPN Installation and Manager script by Cong Minh Vuong
 
 *Warning: Please update and upgrade your OS to latest before install*
 
-**a)Disable Firewalld (apply for CentOS, AlmaLinux, RockyLinux, RedHat,...):**
-
-*Assurance. It will be replaced with iptables*
-
-```bash
-systemctl stop firewalld;\
-systemctl disable firewalld;\
-systemctl mask --now firewalld;
-```
-
-**b) Install with command:**
+**a) Install with command:**
 
 *Need Root Permissions, not Sudo*
 
@@ -34,7 +24,7 @@ bash <(curl https://raw.githubusercontent.com/minhvip20956/cmpn-as/main/vpn.sh |
 ```
 You will need to provide information during installation. Please follow the instructions.
 
-**c) Manager Script**
+**b) Manager Script**
 
 Just with the following simple command. Every component you need is built-in.
 
