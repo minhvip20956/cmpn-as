@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: CMPN VPN Server
+description: A OpenVPN Installation and Manager script by Cong Minh Vuong
+show_downloads: false
